@@ -1,0 +1,2 @@
+This is the content of myFile.
+This is the second line line.
